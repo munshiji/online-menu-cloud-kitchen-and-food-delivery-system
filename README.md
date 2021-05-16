@@ -12,9 +12,9 @@
 # online menu and cloud kitchen 
 Most Advance online restaurant menu, online restaurant menu, free online restaurant menu, free online restaurant menu app, online restaurant menu service provider
 
-## Demo Link ( Open With Phone ) : <a href="https://menu.munshijji.tech" target="_blank">menu.munshijji.tech</a>
+## Demo Link ( Open With Phone ) : <a href="https://menu.munshijji.tech" target="_blank">menu.munshijji.tech</a> <br><br>
 
-<a href=""><img src="https://github.com/munshiji/online-menu-and-cloud-kitchen/blob/main/1.jpeg?raw=true" alt="Online Menu"></a>
+<a href=""><img src="https://github.com/munshiji/online-menu-and-cloud-kitchen/blob/main/1.jpeg?raw=true"  alt="Online Menu"></a> 
 
 
 ## Demo Link ( Open With Phone ) : <a href="https://menu.munshijji.tech" target="_blank">menu.munshijji.tech</a>
@@ -31,8 +31,8 @@ Most Advance online restaurant menu, online restaurant menu, free online restaur
 # online menu and cloud kitchen
 Most Advanced POS Billing & Invoicing Software which can perfectly fit on your WholeSale &amp; Retail Business
 
-
-## Demo Link ( Open With Phone ) : <a href="https://menu.munshijji.tech" target="_blank">menu.munshijji.tech</a>
+<br><br>
+## Demo Link ( Open With Phone ) : <a href="https://menu.munshijji.tech" target="_blank">menu.munshijji.tech</a> <br><br>
 
 
 
