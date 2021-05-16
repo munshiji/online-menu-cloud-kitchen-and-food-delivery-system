@@ -33,7 +33,7 @@ Most Advanced POS Billing & Invoicing Software which can perfectly fit on your W
 <br><br>
 ## Demo Link ( Open With Phone ) : <a href="https://menu.munshijji.tech" target="_blank">menu.munshijji.tech</a> <br><br>
 
-[go](https://munshijji.tech/menu){:target="_blank"}
+[Demo_Link](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 
 
