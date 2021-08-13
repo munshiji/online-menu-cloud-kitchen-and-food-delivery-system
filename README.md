@@ -20,10 +20,6 @@ Most Advance online restaurant menu, online restaurant menu, free online restaur
 - free online restaurant menu app, 
 - online restaurant menu service provider
 
-## Pice : 198 USD / Year ( World Wide )
-## Pice : 10000 Rs / Year ( India )
-
-
 
 # online menu and cloud kitchen
 Most Advanced POS Billing & Invoicing Software which can perfectly fit on your WholeSale &amp; Retail Business
