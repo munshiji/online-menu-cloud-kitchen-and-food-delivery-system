@@ -30,7 +30,8 @@ Most Advanced POS Billing & Invoicing Software which can perfectly fit on your W
 ## Demo Link ( Open With Phone ) : <a href="https://munshijji.tech/menu" target="_blank">menu.munshijji.tech</a> <br><br>
 
 
-
+## Price : 292 USD / Year ( world wide )
+## Price : 15000 Rs / Year ( India )
 
 
 ## Contact Us :- 
